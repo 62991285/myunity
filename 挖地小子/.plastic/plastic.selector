@@ -1,0 +1,4 @@
+repository "挖地小子@tj_wechat_os_qy044gfctbuzzgxmjpnm_dvok@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

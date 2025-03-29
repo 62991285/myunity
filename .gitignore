@@ -1,1 +1,17 @@
-library
+# Unity自动生成的文件
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# 项目设置文件
+*.csproj
+*.sln
+*.suo
+
+# 大文件或二进制文件
+*.unitypackage
+*.assetbundle

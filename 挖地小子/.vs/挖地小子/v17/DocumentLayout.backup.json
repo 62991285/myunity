@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|c:\\users\\samsung\\desktop\\code\\unity game\\\u6316\u5730\u5C0F\u5B50\\assets\\scripts\\minenear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minenear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\assets\\scripts\\minedown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minedown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\assets\\scripts\\monsters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monsters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\assets\\scripts\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\assets\\scripts\\constlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\constlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\assets\\scripts\\blocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\assets\\scripts\\placebomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B746DED3-670E-3F24-04D9-3ACA8F0CAACD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\placebomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Item.cs",
+              "ToolTip": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\Item.cs",
+              "RelativeToolTip": "Assets\\scripts\\Item.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:29:03.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\scripts\\Player.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:14:37.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Monsters.cs",
+              "DocumentMoniker": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\Monsters.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Monsters.cs",
+              "ToolTip": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\Monsters.cs",
+              "RelativeToolTip": "Assets\\scripts\\Monsters.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:54:32.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tool.cs",
+              "DocumentMoniker": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\Tool.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Tool.cs",
+              "ToolTip": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\Tool.cs",
+              "RelativeToolTip": "Assets\\scripts\\Tool.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:49:09.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConstList.cs",
+              "DocumentMoniker": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\ConstList.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ConstList.cs",
+              "ToolTip": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\ConstList.cs",
+              "RelativeToolTip": "Assets\\scripts\\ConstList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:52:25.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MineDown.cs",
+              "DocumentMoniker": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\MineDown.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MineDown.cs",
+              "ToolTip": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\MineDown.cs",
+              "RelativeToolTip": "Assets\\scripts\\MineDown.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCQAAACuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:10:05.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MineNear.cs",
+              "DocumentMoniker": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\MineNear.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MineNear.cs",
+              "ToolTip": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\MineNear.cs",
+              "RelativeToolTip": "Assets\\scripts\\MineNear.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAADgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:09:52.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Blocks.cs",
+              "DocumentMoniker": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\Blocks.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Blocks.cs",
+              "ToolTip": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\Blocks.cs",
+              "RelativeToolTip": "Assets\\scripts\\Blocks.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:25:19.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlaceBomb.cs",
+              "DocumentMoniker": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\PlaceBomb.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PlaceBomb.cs",
+              "ToolTip": "C:\\Users\\samsung\\Desktop\\code\\Unity Game\\\u6316\u5730\u5C0F\u5B50\\Assets\\scripts\\PlaceBomb.cs",
+              "RelativeToolTip": "Assets\\scripts\\PlaceBomb.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:40:15.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
